@@ -1,2 +1,7 @@
 Risposta 1.
 Le commit create in una repository locale, non vengono sincronizzate automaticamente con la repository online collegata, ma ci penserà proprio l utente a farlo manualmente tramite il commando  git remote add origin [link della repository].
+
+Risposta 2.
+Il nuovo nome standard del branch principale utilizzato come convenzione in GIT è il main.
+
+
