@@ -44,6 +44,42 @@ In un progetto possiamo trovare gli attori chiamati anche skateholder, cioè tut
 Clienti :  commitenti del lavoro
 Fornitori : Quelli che producono e vendono il prodotto
 
+Risposta 10
+
+Spiega cosa è il ciclo di vita del software e le fasi in cui si suddivide
+
+Il ciclo di vita di un software è quell insieme di fasi che accomagnano la vita di un software sin da quando è stato pensato fino a che non viene cancellato perchè non piu usato.
+Un progetto di suddivide in fasi e a loro volta in sottofasi, che generano uno o piu output.
+In caso di errori incontrati magari in un documento la fase sarà ripetuta con eventuali modifche.
+Si suddivide in : 
+analisi:
+è una parte fondamentale o di riferimento, perchè senza una buona analisi è impossibile realizzare un progetto complesso. Le analisi si suddividono in :
+	-fattibiltà : se un progetto è realizzabile sia ecconomicamente sia tecnicamente.
+	-requisiti :  se rispetta i requisiti posti
+	-interfaccia : utente
+	-architettura :  ciò come dovra sembrare il software
+	-dati :  che dovranno essere usati
+	-test: che devono essere eseguiti per verificare la funzionalità del programma
+
+progettazzione
+La progettazione di divide in:
+architettura di progetto : si creano le componenti software
+disegno di progetto : si organizzano i vari componenti
+
+produzione
+è un insieme di cose che portano alla scrittura di un prgramma in codice
+
+avvio in produzione
+dopo i vari i test si installa il prodotto dal cliente e si fa un test con dati reali e se funziona il programma puo iniziare a essere usato.
+
+manuntenzione 
+abbaimo tre tipo :
+manuntenzione correttiva:
+manuntenzione addattiva
+manuntenzione revolutiva
+
+
+
 
 
 
