@@ -32,6 +32,19 @@ I branches o rami in git servono per poter lavorare paralellamente sul nostro pr
 Una volta creati i vari rami, per poter passare da un ramo a un altro bisogna digitare il commando : git checkout [nome branch].
 Come detto rami in git servono per poter lavorare paralellamente, per poter unire la nostra modifica effettuata dovremmo posizionarci sul nostro branch principale e per verificare ciò digitiamo il commando : git status, e una volta controllato che  siamo nel branch principale  digitare il commando : git merge [nome branch da unire].
 
+Risposta 9
+
+Spiega di cosa si occupa l’ingegneria del software 
+L'’ingegneria del software si occupa della progettazzione, produzione, riutilizzo, manuntenzione , finalizzati alla riduzione dei costi e miglioramento della qualità:
+progettazzione : studio del problema e individuazzione della soluzione informatica per risolverlo.
+produzione : si scrive un programma in codice che deve essere funzionante.
+riutilizzo : riutilizzo di programmi già realizzati per creare altri applicativi
+manuntenzione :  aggiornamenti e modifiche che accompagnano un software tutta la sua vita.
+In un progetto possiamo trovare gli attori chiamati anche skateholder, cioè tutte quelle persone che fanno parte del progetto. E si suddividono in due gruppi prinicpali : 
+Clienti :  commitenti del lavoro
+Fornitori : Quelli che producono e vendono il prodotto
+
+
 
 
 
