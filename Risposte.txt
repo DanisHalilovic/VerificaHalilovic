@@ -16,5 +16,10 @@ Risposta 5
 Il comando per effettuare il rollback ad una commit precedente su git è:
 git reset  --hard[hash commit] 
 
+Risposta 6
+Due motivazioni per giustificare l’utilizzo di GIT sono :
+1) Permette di lavorare in team e ne facilita il lavoro organizzando i diversi cambiamenti di ogni utente.
+2)Tenere traccia delle modifiche apportate nel tempo ai file consentedno anche il recupero di versioni precedenti.
+
 
 
