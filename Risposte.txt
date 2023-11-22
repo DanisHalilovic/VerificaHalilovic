@@ -26,5 +26,12 @@ La differenza tra git clone e git pull è :
 git clone serve per copiare l intera repository online in locale con il commando:  git clone [link della repository].
 git pull serve per recuperare e unire eventuali commit dal branch online in locale con il commando : git pull origin[nome branch].
 
+Risposta 8
+ 
+I branches o rami in git servono per poter lavorare paralellamente sul nostro progetto senza il rischio di andare a danneggiare il branch principale con eventuali errori. Per creare un branch bisogna digitare il seguente commando nel cmd : git checkout -b [nome branch].
+Una volta creati i vari rami, per poter passare da un ramo a un altro bisogna digitare il commando : git checkout [nome branch].
+Come detto rami in git servono per poter lavorare paralellamente, per poter unire la nostra modifica effettuata dovremmo posizionarci sul nostro branch principale e per verificare ciò digitiamo il commando : git status, e una volta controllato che  siamo nel branch principale  digitare il commando : git merge [nome branch da unire].
+
+
 
 
