@@ -21,5 +21,10 @@ Due motivazioni per giustificare l’utilizzo di GIT sono :
 1) Permette di lavorare in team e ne facilita il lavoro organizzando i diversi cambiamenti di ogni utente.
 2)Tenere traccia delle modifiche apportate nel tempo ai file consentedno anche il recupero di versioni precedenti.
 
+Risposta 7
+La differenza tra git clone e git pull è :
+git clone serve per copiare l intera repository online in locale con il commando:  git clone [link della repository].
+git pull serve per recuperare e unire eventuali commit dal branch online in locale con il commando : git pull origin[nome branch].
+
 
 
